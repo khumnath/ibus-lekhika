@@ -20,7 +20,15 @@ The wrapper layer bridges the C++ core to the Linux desktop environment:
 
 ## Quick Start (Build & Install)
 
-We provide an automated, multi-distribution setup script that handles dependency installation, compilation, and system registration in one step.
+### The Easiest Way (One-Liner)
+You can install IBus Lekhika directly without cloning the repository by running:
+
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/khumnath/ibus-lekhika/main/install.sh)
+```
+
+### Manual Installation
+If you prefer to clone the repository manually:
 
 ```bash
 # Clone the repository
