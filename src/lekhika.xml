@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+	<name>org.freedesktop.IBus.Lekhika</name>
+	<description>Lekhika Nepali Transliteration Engine</description>
+	<exec>/usr/bin/python3 /home/computebox/.local/lib/ibus-lekhika/engine.py</exec>
+	<version>0.2.0</version>
+	<author>Khumnath Cg &lt;nath.khum@gmail.com&gt;</author>
+	<license>GPL</license>
+	<homepage>https://github.com/khumnath/liblekhika</homepage>
+	<engines>
+		<engine>
+			<name>lekhika</name>
+			<language>ne</language>
+			<license>GPL</license>
+			<author>Khumnath Cg &lt;nath.khum@gmail.com&gt;</author>
+			<icon>/home/computebox/.local/share/ibus-lekhika/icons/lekhika.png</icon>
+			<layout>us</layout>
+			<longname>Lekhika (Nepali)</longname>
+			<description>Nepali Transliteration</description>
+			<rank>99</rank>
+		</engine>
+	</engines>
+</component>

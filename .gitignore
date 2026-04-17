@@ -1,0 +1,23 @@
+# Build workspace
+kitchen/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled binaries and libraries
+ibus-lekhika.so
+liblekhika.so*
+test_lekhika
+
+# Object files
+*.o
+
+# Editor / System leftovers
+.DS_Store
+.vscode/
+.idea/
+*~
+*.swp
