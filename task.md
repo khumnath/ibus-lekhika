@@ -1,9 +1,0 @@
-- [/] Re-integrate Advanced Dictionary Features
-    - [ ] Restore C++ wrapper from 'src copy'
-    - [ ] Rebuild ibus-lekhika.so
-    - [ ] Update lekhika_wrap.py with dictionary bulk bindings
-    - [ ] Update setup.py with Dictionary Manager tab and learning logic
-        - [ ] Fix Gtk3 margin compatibility (use individual side margins)
-        - [ ] Restore 'Learn from File', 'Add Word', and 'Reset DB'
-- [ ] Verify setup.py launches correctly from taskbar
-- [ ] Verify transliteration remains functional
